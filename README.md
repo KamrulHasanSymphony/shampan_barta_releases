@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # 📱 Shampan Barta (শ্যাম্পান বার্তা)
 ### Official Android Mobile Client for SSL Support ERP
@@ -55,7 +55,7 @@
 Installing Shampan Barta on your Android phone takes less than a minute:
 
 1. **Download the APK**  
-   Click the [**Download Latest APK**](https://github.com/RoySuzon/shampan_barta_releases/releases/latest/download/ShampanBarta_latest.apk) button using your phone's browser (Chrome, Samsung Internet, Firefox, etc.).
+   Click the [**Download Latest APK**](https://github.com/KamrulHasanSymphony/shampan_barta_releases/releases/latest/download/ShampanBarta_latest.apk) button using your phone's browser (Chrome, Samsung Internet, Firefox, etc.).
 
 2. **Open the File**  
    Once the download completes, tap the notification or open your device's **Downloads** folder and tap `ShampanBarta_latest.apk`.
