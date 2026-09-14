@@ -3,10 +3,10 @@
 # 📱 Shampan Barta (শ্যাম্পান বার্তা)
 ### Official Android Mobile Client for SSL Support ERP
 
-[![Latest Release](https://img.shields.io/github/v/release/RoySuzon/shampan_barta_releases?color=blue&label=Latest%20Release&style=for-the-badge&logo=android)](https://github.com/RoySuzon/shampan_barta_releases/releases/latest)
-[![APK Size](https://img.shields.io/badge/APK%20Size-~63%20MB-success?style=for-the-badge&logo=googleplay)](https://github.com/RoySuzon/shampan_barta_releases/releases/latest)
-[![Platform](https://img.shields.io/badge/Platform-Android%206.0%2B-orange?style=for-the-badge&logo=android)](https://github.com/RoySuzon/shampan_barta_releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/RoySuzon/shampan_barta_releases/total?color=blueviolet&style=for-the-badge)](https://github.com/RoySuzon/shampan_barta_releases/releases)
+[![Latest Release](https://img.shields.io/github/v/release/KamrulHasanSymphony/shampan_barta_releases?color=blue&label=Latest%20Release&style=for-the-badge&logo=android)](https://github.com/KamrulHasanSymphony/shampan_barta_releases/releases/latest)
+[![APK Size](https://img.shields.io/badge/APK%20Size-~63%20MB-success?style=for-the-badge&logo=googleplay)](https://github.com/KamrulHasanSymphony/shampan_barta_releases/releases/latest)
+[![Platform](https://img.shields.io/badge/Platform-Android%206.0%2B-orange?style=for-the-badge&logo=android)](https://github.com/KamrulHasanSymphony/shampan_barta_releases/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/KamrulHasanSymphony/shampan_barta_releases/total?color=blueviolet&style=for-the-badge)](https://github.com/KamrulHasanSymphony/shampan_barta_releases/releases)
 
 <br/>
 
@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/RoySuzon/shampan_barta_releases/releases/latest/download/ShampanBarta_latest.apk">
+  <a href="https://github.com/KamrulHasanSymphony/shampan_barta_releases/releases/latest/download/ShampanBarta_latest.apk">
     <img src="https://img.shields.io/badge/📥_Download_Latest_APK-Direct_Download-brightgreen?style=for-the-badge&logo=android&logoColor=white" height="42" alt="Download APK" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/RoySuzon/shampan_barta_releases/releases">
+  <a href="https://github.com/KamrulHasanSymphony/shampan_barta_releases/releases">
     <img src="https://img.shields.io/badge/📦_Browse_All_Releases-Archive-blue?style=for-the-badge&logo=github&logoColor=white" height="42" alt="Browse Releases" />
   </a>
 </p>
@@ -32,9 +32,9 @@
 
 | File | Description | Download Link |
 | :--- | :--- | :---: |
-| 🚀 **Latest Release APK** | Recommended. Always points to the most up-to-date stable build. | [**ShampanBarta_latest.apk**](https://github.com/RoySuzon/shampan_barta_releases/releases/latest/download/ShampanBarta_latest.apk) |
-| 🏷️ **Versioned APK** | Specific version archive (v1.0.1+5). | [**ShampanBarta_v1.0.1.5.apk**](https://github.com/RoySuzon/shampan_barta_releases/releases/download/v1.0.1+5/ShampanBarta_v1.0.1.5.apk) |
-| 📂 **Release Notes & Archive** | Full release history, changelog, and past versions. | [**View Releases**](https://github.com/RoySuzon/shampan_barta_releases/releases) |
+| 🚀 **Latest Release APK** | Recommended. Always points to the most up-to-date stable build. | [**ShampanBarta_latest.apk**](https://github.com/KamrulHasanSymphony/shampan_barta_releases/releases/latest/download/ShampanBarta_latest.apk) |
+| 🏷️ **Current Version (v1.0.1+7)** | Direct APK download for v1.0.1+7. | [**ShampanBarta_v1.0.1.7.apk**](https://github.com/KamrulHasanSymphony/shampan_barta_releases/releases/latest/download/ShampanBarta_latest.apk) |
+| 📂 **Release Notes & Archive** | Full release history, changelog, and past versions. | [**View Releases**](https://github.com/KamrulHasanSymphony/shampan_barta_releases/releases) |
 
 ---
 
