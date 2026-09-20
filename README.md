@@ -34,7 +34,7 @@
 | :--- | :--- | :---: |
 | 🔗 **Short Download Link** | **Super-easy link to share.** Always downloads latest APK directly. | [**tinyurl.com/shampan-barta-apk**](https://tinyurl.com/shampan-barta-apk) |
 | 🚀 **Latest Release APK** | GitHub direct permanent link. Always points to newest build. | [**ShampanBarta_latest.apk**](https://github.com/KamrulHasanSymphony/shampan_barta_releases/releases/latest/download/ShampanBarta_latest.apk) |
-| 🏷️ **Current Version (v1.0.1+8)** | Versioned APK artifact for v1.0.1+8. | [**ShampanBarta_v1.0.1+8.7.apk**](https://github.com/KamrulHasanSymphony/shampan_barta_releases/releases/download/v1.0.1+8/ShampanBarta_v1.0.1+8.7.apk) |
+| 🏷️ **Current Version (v1.0.1+9)** | Versioned APK artifact for v1.0.1+9. | [**ShampanBarta_v1.0.1+9.7.apk**](https://github.com/KamrulHasanSymphony/shampan_barta_releases/releases/download/v1.0.1+9/ShampanBarta_v1.0.1+9.7.apk) |
 | 🌐 **Short Release Page** | Quick link to release notes and changelog. | [**tinyurl.com/shampan-barta-latest**](https://tinyurl.com/shampan-barta-latest) |
 | 📂 **All Releases & Archive** | Full version history and older releases. | [**Browse All Releases**](https://github.com/KamrulHasanSymphony/shampan_barta_releases/releases) |
 
